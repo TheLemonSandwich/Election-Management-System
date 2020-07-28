@@ -1,0 +1,4 @@
+Name: D:/Softwares/Visual Studio Projects/C++/Election Management System/Political Parties/Available Symbols.txt
+Constituency: NA-101
+Party Status: Independent
+

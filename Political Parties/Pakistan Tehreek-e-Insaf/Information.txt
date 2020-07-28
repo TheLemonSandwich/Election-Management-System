@@ -1,0 +1,4 @@
+Name: Pakistan Tehreek-e-Insaf
+Symbol: Bat
+Username: Pakistan1
+Password: Pakistan1

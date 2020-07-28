@@ -1,0 +1,34 @@
+Arrow
+Kite
+Lion
+Bicycle
+Seagull
+Eagle
+Wheat Bunch
+Tumbler
+Human Hand
+Hut
+Inkpot with Pen
+Lantern
+Giraffe
+Aeroplane
+Boat
+Tyre
+Bulb
+Cow
+Sickle
+Camel
+Gate
+Unity
+Star
+Crescent
+Coat
+Football
+Two Sword
+Energy Saver
+Scale
+Fountain
+Pen
+Wheel
+
+

@@ -1,0 +1,35 @@
+Chitral
+Swat
+Upper Dir
+Lower Dir
+Malakand
+Buner
+Shangla
+Kohistan
+Lower Kohistan
+Kolai Palas
+Battagram
+Mansehra
+Torghar
+Abbottabad
+Haripur
+Swabi
+Mardan
+Charsadda
+Nowshera
+Peshawar
+Kohat
+Hangu
+Karak
+Bannu
+Lakki Marwat
+Tank
+Dera Ismail Khan
+Bajaur
+Mohmand
+Khyber
+Kurram
+Orakzai
+North Waziristan
+South Waziristan
+Ex Frontier regions

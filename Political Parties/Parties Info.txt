@@ -1,0 +1,12 @@
+Username: Jamat123
+Password: jamat321
+Name: Jamaat-e-Islami Pakistan
+
+Username: Bhutto
+Password: ZindaHai
+Name: Pakistan People's Party
+
+Username: Pakistan1
+Password: Pakistan1
+Name: Pakistan Muslim League
+

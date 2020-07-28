@@ -1,0 +1,4 @@
+Name: Jamaat-e-Islami Pakistan
+Symbol: Mug
+Username: Jamat123
+Password: jamat321

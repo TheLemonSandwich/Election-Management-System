@@ -1,0 +1,4 @@
+Name: Pakistan People's Party
+Symbol: Axe
+Username: Bhutto
+Password: ZindaHai

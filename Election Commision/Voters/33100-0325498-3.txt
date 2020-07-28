@@ -1,0 +1,4 @@
+CNIC: 33100-0325498-3
+Password: qwert12345
+District: Chiniot/Punjab
+Vote Casted: No

@@ -1,0 +1,12 @@
+Name: NA-100
+District: Chiniot/Punjab
+
+Name: NA-60
+District: Rawalpindi/Punjab
+
+Name: NA-1
+District: Chitral/KPK
+
+Name: NA-101
+District: Faisalabad/Punjab
+
